@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sagar201003
-- 👀 I’m interested in Machine Learning/Deep Learning/Web development/Cyber Security/Programming /JAVA /Python...
-- 🌱 I’m currently learning Machine Learning/Deep Learning/Web Development/JAVA..
-- 💞️ I’m looking to collaborate on Machine Learning,Deep Learning Projects..
+- 👀 I’m interested in Machine Learning/Deep Learning/Web Development/App Development/Cyber Security/Programming /JAVA /Python...
+- 🌱 I’m currently learning Machine Learning/Deep Learning/Web Development/JAVA.
+- 💞️ I’m looking to collaborate on Machine Learning , Deep Learning Projects.
 - 📫 How to reach me my email ID:- shuklasagar201003@gmail.com
 
 <!---
