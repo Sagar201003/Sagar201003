@@ -122,7 +122,7 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
 
 <p align="center">
   <a href="https://github.com/Sagar201003">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Sagar201003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sagar201003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Sagar201003">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar201003&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -131,7 +131,7 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
 
 <p align="center">
   <a href="https://github.com/Sagar201003">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Sagar201003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagar201003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
   </a>
 </p>
 
