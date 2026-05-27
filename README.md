@@ -87,7 +87,7 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚨 <a href="https://github.com/Sagar201003/Criminal-Identification">Autonomous Criminal Identification</a></h4>
+      <h4>🚨 <a href="https://github.com/Sagar201003/YOLO-GCN-Surveillance">Autonomous Criminal Identification</a></h4>
       <p><i>Real-time public surveillance identification system featuring YOLOv8, ResNet-50, and DeepSORT tracking with a Django interface. Published paper!</i></p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
