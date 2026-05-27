@@ -22,9 +22,11 @@
 ```yaml
 sagar_shukla:
   current_role: "M.Tech Student in AI & ML @ COEP Technological University"
-  academic_background: "B.E. in Computer Engineering (Specialization in AI & ML)"
-  core_focus: ["Computer Vision", "Generative AI (RAG, Agentic Workflows)", "Deep Learning"]
-  passions: ["Autonomous Systems", "Hallucination Reduction in LLMs", "Open Source Dev"]
+  academic_background:
+    masters: "M.Tech in AI & ML @ COEP Technological University (Pursuing)"
+    bachelors: "B.E. in Computer Engineering (Specialization in AI & ML)"
+  core_focus: ["Computer Vision", "RAG", "GenAI (GAN)", "Deep Learning"]
+  passions: ["Building Intelligent Systems", "Exploring & Experimenting with New AI Models", "Open Source Dev"]
 ```
 
 I am a deep learning and artificial intelligence specialist focused on bridging the gap between theoretical models and real-world deployable solutions. My work ranges from building autonomous multi-drone surveillance networks using YOLO architectures to implementing hot-swappable domain knowledge systems for LLMs.
