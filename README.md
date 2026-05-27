@@ -87,13 +87,13 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚨 <a href="https://github.com/Sagar201003/YOLO-GCN-Surveillance">Autonomous Criminal Identification</a></h4>
-      <p><i>Real-time public surveillance identification system featuring YOLOv8, ResNet-50, and DeepSORT tracking with a Django interface. Published paper!</i></p>
+      <h4>🚨 <a href="https://github.com/Sagar201003/YOLO-GCN-Surveillance">YOLO-GCN Surveillance</a></h4>
+      <p><i>A state-of-the-art Computer Vision architecture built on PyTorch and YOLOv8-pose. Extracts 17-point skeletal anatomy natively into a sliding Graph Convolutional Network (GCN) to classify real-time suspicious human activities.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv8-FF2F2F?style=flat-square" />
-        <img src="https://img.shields.io/badge/DeepSORT-007ACC?style=flat-square" />
-        <img src="https://img.shields.io/badge/ResNet--50-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/YOLOv8--Pose-FF2F2F?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/GCN-4CAF50?style=flat-square" />
+        <img src="https://img.shields.io/badge/Computer_Vision-007ACC?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
