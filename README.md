@@ -97,13 +97,13 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🕵️‍♂️ <a href="https://github.com/Sagar201003/NetraGuard">SARNet (Suspicious Activity Recognition)</a></h4>
-      <p><i>Multi-stage Suspicious Activity Recognition system combining video classification and object detection. Reached 97% accuracy on the UCF101 dataset.</i></p>
+      <h4>🛰️ <a href="https://github.com/Sagar201003/SARNet">SARNet (SAR Image Translation)</a></h4>
+      <p><i>End-to-end deep learning pipeline translating grayscale Synthetic Aperture Radar (SAR) imagery into colorized optical imagery using CycleGAN, with an integrated ResNet-18 terrain classifier.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/YOLOv8-FF2F2F?style=flat-square" />
-        <img src="https://img.shields.io/badge/ResNet--50-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/DeepSORT-007ACC?style=flat-square" />
-        <img src="https://img.shields.io/badge/EasyOCR-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/CycleGAN-FF9800?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/ResNet--18-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deep_Learning-9C27B0?style=flat-square" />
       </p>
     </td>
   </tr>
