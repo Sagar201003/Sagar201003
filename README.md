@@ -65,7 +65,7 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Sagar201003/SME-PLUG">SME-PLUG</a></h4>
+      <h4>🤖 <a href="https://github.com/Sagar201003/NeuralNexus_PB2_THE-SME-PLUG">SME-PLUG</a></h4>
       <p><i>Hot-swappable Subject Matter Expert plugin for LLMs utilizing a hybrid RAG pipeline (HyDE, BM25, ChromaDB) and agentic workflows to eliminate hallucinations.</i></p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
