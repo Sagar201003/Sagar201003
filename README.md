@@ -133,7 +133,7 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
 
 <p align="center">
   <a href="https://github.com/Sagar201003">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagar201003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sagar201003&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" width="60%" />
   </a>
 </p>
 
