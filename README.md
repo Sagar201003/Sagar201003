@@ -97,12 +97,13 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>💬 <a href="https://github.com/Sagar201003/Scheme-Chatbot">Government Scheme Explainer</a></h4>
-      <p><i>Quantized LLaMA-3.1 8B social-good chatbot providing low-latency, factually correct policy guidance for citizen queries.</i></p>
+      <h4>🕵️‍♂️ <a href="https://github.com/Sagar201003/NetraGuard">SARNet (Suspicious Activity Recognition)</a></h4>
+      <p><i>Multi-stage Suspicious Activity Recognition system combining video classification and object detection. Reached 97% accuracy on the UCF101 dataset.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/LLaMA--3.1-000000?style=flat-square&logo=meta&logoColor=white" />
-        <img src="https://img.shields.io/badge/Quantization-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Social_Good-0077B5?style=flat-square" />
+        <img src="https://img.shields.io/badge/YOLOv8-FF2F2F?style=flat-square" />
+        <img src="https://img.shields.io/badge/ResNet--50-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/DeepSORT-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/EasyOCR-orange?style=flat-square" />
       </p>
     </td>
   </tr>
