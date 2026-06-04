@@ -22,7 +22,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#1a1b26,#161b22,#0d1117,#21262d,#00E5FF
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use a Personal Access Token (PAT) to fetch private contributions
+          GITHUB_TOKEN: ${{ secrets.PAT }}
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
