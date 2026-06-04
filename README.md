@@ -128,7 +128,7 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sagar201003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Sagar201003">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar201003&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://streak-stats.vercel.app/?user=Sagar201003&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
 </p>
 
