@@ -127,13 +127,6 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
 - 🏅 **National Level Competitor** at the Srinivasa Ramanujan Mathematical Competition.
 - 🎙️ **Speaker** at college AIML training sessions, educating peers on core machine learning concepts.
 
-<br>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sagar201003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Sagar201003 Trophies" />
-  </a>
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 ## 📊 GitHub Analytics
