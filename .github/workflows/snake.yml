@@ -20,7 +20,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#1a1b26,#161b22,#0d1117,#21262d,#00E5FF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#1a1b26,#005b66,#008b99,#00bccc,#00E5FF
         env:
           # Use a Personal Access Token (PAT) to fetch private contributions
           GITHUB_TOKEN: ${{ secrets.PAT }}
