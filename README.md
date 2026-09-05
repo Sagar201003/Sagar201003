@@ -64,24 +64,34 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Sagar201003/NeuralNexus_PB2_THE-SME-PLUG">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sagar201003&repo=NeuralNexus_PB2_THE-SME-PLUG&theme=tokyonight&show_icons=true" alt="SME-PLUG" />
-      </a>
-      <p align="left"><i>Hot-swappable Subject Matter Expert plugin for LLMs utilizing a hybrid RAG pipeline (HyDE, BM25, ChromaDB) and agentic workflows to eliminate hallucinations.</i></p>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Sagar201003/NeuralNexus_PB2_THE-SME-PLUG">⚡ NeuralNexus (SME-PLUG)</a>
+      </h3>
       <p align="left">
+        <i>Hot-swappable Subject Matter Expert plugin for LLMs utilizing a hybrid RAG pipeline (HyDE, BM25, ChromaDB) and agentic workflows to eliminate hallucinations.</i>
+      </p>
+      <p align="left">
+        <a href="https://github.com/Sagar201003/NeuralNexus_PB2_THE-SME-PLUG">
+          <img src="https://img.shields.io/github/stars/Sagar201003/NeuralNexus_PB2_THE-SME-PLUG?style=flat-square&logo=github&color=00E5FF&logoColor=00E5FF&labelColor=1a1b26" alt="Stars" />
+        </a>
         <img src="https://img.shields.io/badge/FastAPI-1a1b26?style=flat-square&logo=fastapi&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/LangChain-1a1b26?style=flat-square&logo=chainlink&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/CrewAI-1a1b26?style=flat-square&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/ChromaDB-1a1b26?style=flat-square&logoColor=00E5FF" />
       </p>
     </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Sagar201003/SkySentinel">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sagar201003&repo=SkySentinel&theme=tokyonight&show_icons=true" alt="SkySentinel" />
-      </a>
-      <p align="left"><i>IoV-Integrated Autonomous Multi-Drone Swarm surveillance system. Leverages YOLOv11-Pose, GATs, Voronoi Tessellation, and a PyQt6 ground control station.</i></p>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Sagar201003/SkySentinel">🛸 SkySentinel</a>
+      </h3>
       <p align="left">
+        <i>IoV-Integrated Autonomous Multi-Drone Swarm surveillance system. Leverages YOLOv11-Pose, GATs, Voronoi Tessellation, and a PyQt6 ground control station.</i>
+      </p>
+      <p align="left">
+        <a href="https://github.com/Sagar201003/SkySentinel">
+          <img src="https://img.shields.io/github/stars/Sagar201003/SkySentinel?style=flat-square&logo=github&color=00E5FF&logoColor=00E5FF&labelColor=1a1b26" alt="Stars" />
+        </a>
         <img src="https://img.shields.io/badge/YOLOv11-1a1b26?style=flat-square&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/PyTorch-1a1b26?style=flat-square&logo=pytorch&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/PyQt6-1a1b26?style=flat-square&logo=qt&logoColor=00E5FF" />
@@ -90,24 +100,34 @@ I am a deep learning and artificial intelligence specialist focused on bridging 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Sagar201003/YOLO-GCN-Surveillance">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sagar201003&repo=YOLO-GCN-Surveillance&theme=tokyonight&show_icons=true" alt="YOLO-GCN Surveillance" />
-      </a>
-      <p align="left"><i>A state-of-the-art Computer Vision architecture built on PyTorch and YOLOv8-pose. Extracts 17-point skeletal anatomy natively into a sliding Graph Convolutional Network (GCN) to classify real-time suspicious human activities.</i></p>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Sagar201003/YOLO-GCN-Surveillance">👁️ YOLO-GCN Surveillance</a>
+      </h3>
       <p align="left">
+        <i>A state-of-the-art Computer Vision architecture built on PyTorch and YOLOv8-pose. Extracts 17-point skeletal anatomy natively into a sliding Graph Convolutional Network (GCN) to classify real-time suspicious human activities.</i>
+      </p>
+      <p align="left">
+        <a href="https://github.com/Sagar201003/YOLO-GCN-Surveillance">
+          <img src="https://img.shields.io/github/stars/Sagar201003/YOLO-GCN-Surveillance?style=flat-square&logo=github&color=00E5FF&logoColor=00E5FF&labelColor=1a1b26" alt="Stars" />
+        </a>
         <img src="https://img.shields.io/badge/YOLOv8--Pose-1a1b26?style=flat-square&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/PyTorch-1a1b26?style=flat-square&logo=pytorch&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/GCN-1a1b26?style=flat-square&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/Computer_Vision-1a1b26?style=flat-square&logoColor=00E5FF" />
       </p>
     </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Sagar201003/SARNet">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sagar201003&repo=SARNet&theme=tokyonight&show_icons=true" alt="SARNet" />
-      </a>
-      <p align="left"><i>End-to-end deep learning pipeline translating grayscale Synthetic Aperture Radar (SAR) imagery into colorized optical imagery using CycleGAN, with an integrated ResNet-18 terrain classifier.</i></p>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/Sagar201003/SARNet">📡 SARNet</a>
+      </h3>
       <p align="left">
+        <i>End-to-end deep learning pipeline translating grayscale Synthetic Aperture Radar (SAR) imagery into colorized optical imagery using CycleGAN, with an integrated ResNet-18 terrain classifier.</i>
+      </p>
+      <p align="left">
+        <a href="https://github.com/Sagar201003/SARNet">
+          <img src="https://img.shields.io/github/stars/Sagar201003/SARNet?style=flat-square&logo=github&color=00E5FF&logoColor=00E5FF&labelColor=1a1b26" alt="Stars" />
+        </a>
         <img src="https://img.shields.io/badge/CycleGAN-1a1b26?style=flat-square&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/PyTorch-1a1b26?style=flat-square&logo=pytorch&logoColor=00E5FF" />
         <img src="https://img.shields.io/badge/ResNet--18-1a1b26?style=flat-square&logoColor=00E5FF" />
